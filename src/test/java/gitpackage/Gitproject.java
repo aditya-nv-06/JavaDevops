@@ -4,7 +4,7 @@ public class Gitproject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hi welcome.");
+		System.out.println("hi welcome. to  devops maven");
 	}
 
 }
